@@ -30,7 +30,7 @@ build:
     - script:
         name: download theme      
         code: |
-            $(git clone https://github.com/Vimux/Mainroad ./themes/mainroad)  
+            $(git clone https://github.com/bassitone/Mainroad ./themes/mainroad)  
     - koldovsky/hugo-build@1.16.5:
           theme: mainroad
           flags: --buildDrafts=true
@@ -51,7 +51,7 @@ deploy:
         - script:
             name: transfer blog
             code: |
-                rsync -au -e "ssh -i $PRIVATEKEY_PATH -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" --progress public/* root@$HOSTNAME:/var/www/blog
+                rsync -au -e "ssh -i $PRIVATEKEY_PATH -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" --progress public/* root@$HOSTNAME:/var/www/html
                 ssh -i $PRIVATEKEY_PATH -l root -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $HOSTNAME chown -R www-data:www-data /var/www/
         - script:
             name: restart nginx
