@@ -20,4 +20,4 @@ I hate all caps outside of very specific circumstances.
 
 Moving on, I have also gotten it set up such that I can write a post on my laptop, type a couple commands with ``git``, and see my post automatically show up on my blog with the power of SSH and a neat Continuous Integration/Continuous Delivery platform called [Wercker](http://www.wercker.com).  CI/CD is apparently all the rage these days, and I should be familiar with all the things I might come across in my line of work, shouldn't I?
 
-There are surely some kinks to be worked out still - there always are.  But in any case, welcome to the new site!
+There are surely some kinks to be worked out still - there always are.  In fact, **I've already found one** - CSS needs to be tweaked to show italics.  But in any case, welcome to the new site!
