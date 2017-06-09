@@ -24,4 +24,9 @@ build:
         name: echo
         code: |
           echo "hello world!"
-
+        code: |
+            $(git clone https://github.com/Vimux/Mainroad ./themes/mainroad)  
+    - koldovsky/hugo-build@1.16.5:
+        theme: mainroad
+        flags: --buildDrafts=true
+        prod_branches: master
