@@ -2,7 +2,7 @@
 # Docker Hub https://registry.hub.docker.com/_/debian/
 # Read more about containers on our dev center
 # http://devcenter.wercker.com/docs/containers/index.html
-box: debian
+box: ubuntu
 # You can also use services such as databases. Read more on our dev center:
 # http://devcenter.wercker.com/docs/services/index.html
 # services:
@@ -32,6 +32,29 @@ build:
         code: |
             $(git clone https://github.com/Vimux/Mainroad ./themes/mainroad)  
     - koldovsky/hugo-build@1.16.5:
-        theme: mainroad
-        flags: --buildDrafts=true
-        prod_branches: master
+          version: "0.17"
+          theme: mainroad
+          flags: --buildDrafts=true
+          prod_branches: master
+deploy:
+    steps:
+        - install-packages:
+            packages: openssh-client rsync
+        - add-to-known_hosts:
+            hostname: $HOSTNAME
+        - mktemp:
+            envvar: PRIVATEKEY_PATH
+        - create-file:
+            name: write key
+            filename: $PRIVATEKEY_PATH
+            content: $WERCKER_PRIVATE
+            overwrite: true
+        - script:
+            name: transfer blog
+            code: |
+                rsync -au -e "ssh -i $PRIVATEKEY_PATH -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" --progress public/* root@$HOSTNAME:/var/www/blog
+                ssh -i $PRIVATEKEY_PATH -l root -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $HOSTNAME chown -R www-data:www-data /var/www/
+        - script:
+            name: restart nginx
+            code: ssh -i $PRIVATEKEY_PATH -l root -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $HOSTNAME nginx -s reload
+
