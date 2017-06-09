@@ -1,0 +1,36 @@
+---
+author: Charles
+categories:
+- Personal
+comments: true
+date: 2016-10-28T22:18:41Z
+link: http://www.bassitone.com/2016/10/28/passion/
+slug: passion
+title: Passion
+url: /2016/10/28/passion/
+wordpress_id: 4330
+---
+
+Good afternoon y'all,  Sitting out on campus writing this on a beautiful day.  Saw Elmo (and dad) earlier, so it can't get much better than this.  Set out today with the goal of not letting my weekly day off slip away, and it seems to be more or less on track with that (even though I failed to get up early today as I had wanted to).  And yet, I'm late on this post.
+
+You know why?  I was caught up in one of my newfound passions last night and by the time I was done, it was already past my bedtime!
+
+I was working on Accountability, and I think I've finally gotten to the point where it feels like I'm actually _building something_ rather than just copying and pasting code examples from StackOverflow.  In short, Accountability has found its spark.  Somewhere in chasing down an annoying templating error last night, it found its spark.  Quite frankly, I can't wait to get back to work on it.  This feels exciting, like a whole new world stretches out before me.  (Cue the song!)
+
+Of course, I had a few things to take care of first: lunch with dad and the dog, my forensics homework, and so on and so forth.  But it's been at the back of my mind as something I really **want** to do rather than "oh yeah, I should actually work on this thing for once".  Programming might be trying to supplant gaming with that same feeling of accomplishment, even if I'm still following a tutorial loosely.  At this rate, I might soon have an alpha version available for y'all to check out!
+
+It's easy for me to be excited about it, and that's something I should push for, and build on.  Going to pick up the pace of development such that it's the kind of default thing I go to when I have some downtime.  I mean, really, I have my laptop with me almost constantly and this campus has Wi-Fi almost everywhere.  No excuse not to!  And yet, as I sit here thinking about how to bridge the gap into what got me thinking and reflecting last night, little is coming to mind.
+
+See, last night I had class as usual, and something that happened at the end of one of them has stuck with me since then - almost tugging at the back of my mind in a similar way as this passion for programming.  One of my classes this semester is all about starting a business; you know, that thing I've tried three or so times over the years and failed miserably with.  The professor is clearly very knowledgeable, and, while his teaching style may not be the most engaging ever, I've gotten a lot out of the class that is interesting to know if I ever decide to make another go of it.
+
+And yet, it's becoming apparent that either I am the only one who cares about this class, or we are all doing a horrible job of showing it.  At the end of class last night, our professor somewhat frustratedly remarked that at least we showed up; at least some part of him was expecting to teach to an empty room.  I mean, for as much as we engage with the material that might as well be the case, so fair enough.  I try to at least act engaged, but clearly it's not enough (and I've never been good at this whole body language thing anyway).
+
+And y'know, I get it.  He's very clearly passionate about starting businesses and all that.  It is not and cannot be my top priority, at least any more or less than any other class, but why take it if you aren't at least thinking about starting a company in the back of your mind?  It's like we're all just going through the motions, and I can see it's taking its toll on the guy.
+
+It would on me, too, if I were in his shoes.
+
+Especially if the fact that he drives down from Austin to teach this class is as true as he says.
+
+To get the opportunity to teach about your lifelong passion - and have your students pay for the privilege! - sounds like a wonderful thing, until these students just seem to go through the motions to the point where you question if it's even worth it anymore.  Where's the joy in it?  Entrepreneurship is as relevant as ever these days, and my generation should be extremely interested in it.  I mean, FFS, several of those epic startup stories we heard about in the last decade happened an hour up the road!  Why not here, too?  Switch that out with whatever your passion might be, and who could blame anyone from getting burned out?
+
+I just wish there was something I could do, y'know?

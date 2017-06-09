@@ -1,0 +1,29 @@
+---
+author: Charles
+categories:
+- Gaming Journal
+- Personal
+comments: true
+date: 2016-10-05T00:45:34Z
+link: http://www.bassitone.com/2016/10/04/day-four/
+slug: day-four
+title: 'Day 4: Embracing the Void'
+url: /2016/10/05/day-four/
+wordpress_id: 4259
+---
+
+Edit: I've been posting these little daily journals to a certain forum as part of a project to keep me on track with the plan I outlined in a post a few days ago.  A dear friend suggested I post them on here too, so why not?  If it's too much for you, I can look into a category filter or something.
+
+
+
+Timestamp: Tuesday, 4th October 2016 at 18:13
+
+Reread _Respawn_ last night, just to refamiliarize myself with what I’m doing here. It’s been a while, after all, since I really put my all into quitting gaming. Y’know, throughout this whole time I never really stopped to consider just how _pervasive_ gaming has been in my life. I mean, I knew on some level, sure, but it went far deeper than I had imagined. Even just wiping clean my “gaming” PC (aided by the mess of a Windows 10 update last weekend…) wasn’t enough. I had to clean games off of my phone and even this laptop I’m using now as I discovered this evening - and this thing can’t even _run_ 80% of what’s out there these days!
+
+More than that, though, updating my cohort of phone apps reminds me just how out there and in front of me gaming can be. I know iOS 10 was just released (never mind I’m probably the only one on the planet who wants this), but can we get a command-line way of updating things on iPhones? Would make it a lot easier to resist… Gaming is nearly unavoidable in my daily life - as a student at a large university and in IT no less, it’s often the prevailing topic of conversation. The extracurricular group I have fallen into since coming here as a grad student almost two years ago was the eSports team, even! It’s so _easy_ to slip up. Might I have to adapt a sort of monastic lifestyle?
+
+No, or at least I hope not.
+
+Structural changes _are_ necessary, as I’ve said previously, but look out at those who I look up to. Do they spend all this time gaming? Probably not. It _is_ possible to fill the time otherwise - the trick is finding those things to fill the time as Cam suggests. All this has been hashed out numerous times, of course. This time around, it’s writing, coding, and messing around with my home lab for the mentally-stimulating bit, and Magic the Gathering for the social part. Still trying to figure out the resting activity that isn’t just mindless browsing. I listen to various streams of classical music all the time normally, but I’m usually doing _something_ during it - it’s not quite a resting activity as relaxing as it is. The temptation to game in this void is still proving itself difficult to push aside. Idle time is going to be the end of me. Fortunately, as a grad student I don’t have too much of it, but it’s still a factor.
+
+But more than that, another wrinkle to this whole thing is the rush of these new activities spiraling seemingly out of control as the programming project seemed to yesterday. I was laughing at myself on Slack about the fact that it had already gone way, _way_ beyond what I originally had in mind, but really it was kind of overwhelming and all. How to best deal with that until I get used to programming again? The obvious idea is to reduce the project scope, but I fear I’m far too ambitious to do that - simple programming exercises may not be enough to engage my mind at this point.

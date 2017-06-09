@@ -1,0 +1,48 @@
+---
+author: Charles
+categories:
+- Personal
+comments: true
+date: 2016-10-12T05:06:45Z
+link: http://www.bassitone.com/2016/10/12/i-believe/
+slug: i-believe
+title: I Believe
+url: /2016/10/12/i-believe/
+wordpress_id: 4286
+---
+
+Today was quiet in terms of personal development.  I had a (thankfully much easier) Cyber Law midterm tonight and enough to do at work that I was more or less busy throughout the entire day.  No time for programming, the VCSA still needs to be set up again (hope to tackle that in the morning when I can have several hours to really lock it down), and no progress on my next novel.  Well, okay...I wrote a synopsis for the NaNoWriMo site today, but it's not exactly progress on the novel itself.  Maybe I'll copy and paste it into another post following this one.
+
+That said, this post... tonight's writing... is something different than I have been writing about so far.  It's funny, my blog about cybersecurity stuff and coding projects has taken on a life of its own as a chronicle of my journey through this weird thing we call life.  To those of you who come here expecting to see the chronicles of a budding hacker instead, I'm sorry.  If it helps, I may put up something about the whole Diffie-Helman trapdoor thing that came out earlier.  Just my uneducated thoughts on it, of course - it's safe to say I'm the opposite of a crypto expert.  If all goes well with the VCSA setup I might get around to cracking and doing a writeup of a Vulnhub VM by this weekend.  Lord knows I'm overdue for making one of those.  For my non-technical friends, it's basically a puzzle designed to get me to practice hacking in a safe but semi-realistic way.
+
+If you're good with something that's honestly been a bit tough to write this evening, join me on the other side of the jump.
+
+<!--more-->
+
+Usually, these posts just seem to fly off the fingertips.  Tonight, though, it's a bit different.  Even though I'm already approaching 300 words, I know, it's actually difficult to get into the topic I chose to write about tonight.  For some reason, my mind just slams the brakes on and there's almost a lump in my throat when I'm trying to mentally compose how I'm going to exactly say what I want to say.  This post has been a long time coming.  From even before I was going by bassitone, even!
+
+I've never told anyone before.  Nobody.  Except _maybe_ an old friend of mine who was in choir with me for a couple years and I unfortunately don't speak to these days - for as much of an extent as I live on the internet, she is invisible on it.  We are literal, polar opposites in every sense of the word except for this one way.
+
+**I believe in God the Father.**
+
+**I believe Jesus Christ is the Son of God and I am redeemed through Him.**
+
+**I believe in the Holy Ghost.**  I'm not sure exactly what the Holy Spirit is meant to be as I never really studied the Bible beyond the passages I've sung in the various Latin, German, and English Masses I've done in choir over the years.
+
+That's the easy part of this post.  I mean, what's so hard about being a modern Christian in the United States of America, least of all Texas?!  Well, the hard part is how I came to find Him and my faith.  I'm sure this post will raise certain questions in some of y'all's minds, especially given the current political climate.  I must admit here that I've been hiding a fairly large part of myself from y'all all this time.  I am far more devout than I've let on, which is not all that much, relatively speaking, but it might come as a shock nonetheless.  Don't worry, Trump still disgusts and scares me as much as he does anyone more liberal than Ted Cruz.  I still unshakably believe in evolution, climate change, any other scientific "issue" that has somehow become at odds with religion, and so on and so forth.  To my LGBT friends, don't worry - I'm still as much of an ally as I was before writing this.  And I'll still swear like a sailor while having a beer when the Texans do something dumb on the field of play.
+
+**I'm still me.**  This is just a new part of me that I've never shared before.  I don't like that I had to write the last paragraph, but I'm afraid there would be too many comments, too many awkward questions had I not written it.
+
+And that has been the truly difficult part of reconciling my faith with my education, upbringing, and beliefs.  Far too often in this country, being religious is conflated with the opposite of all those things I wrote above.  Having lived abroad for a short period of time, I can say with confidence this is uniquely an American thing, but it is a thing nonetheless.  Especially here in Texas.  We hear about the Religious Right as a common demographic in politics.  Where's the Religious Left in all of this?!  Why does "be a good person and you'll go to Heaven" have to be a right versus left thing?
+
+Honestly, that is perhaps the primary reason I haven't been going to church and been calling myself more spiritual than religious all this time.  Unlike what the aforementioned presidential candidate said the other night, words mean something.  Like it or not, we have to be fearless in our use of them, but yet mindful of how they might be taken.  It is a special, and apparently far too rare, place that approaches faith from the same angle I am coming from.  And while differing opinions are always welcome, I've never much been for the whole "fire and brimstone" thing.  That and the whole "contemporary Christian music" genre.
+
+I think, I hope, and yes, I pray that I have found that place, at least while I'm in this city.  Though I am still evaluating it, I have always had a soft spot for coincidences and such things.  Is it God guiding me toward this church in particular?  Who can say.  I just know that discovering it while listening to Old Hundredth on the radio has to mean _something_.  More on those coincidences later.
+
+Music has been the primary way I have experienced my faith up to this point.  I did not have the typical childhood of being dragged to Sunday school every weekend until confirmation.  I went to youth group maybe twice.  Hell, I didn't even really start going to church until I was about fifteen aside from Christmas and Easter.  That's just the way we were.
+
+Twice in the past 24 hours I have been quite literally brought to my knees by an overwhelming feeling of pure joy and awe by sacred music.  Most recently, it was the aforementioned version of Old Hundredth.  As an aside, the concrete of the Sombrilla on campus is hard even when you're wearing jeans.  The one before that was last night.  I was listening to that same radio stream (Seriously, yourclassical.org is like crack to fans of the genre, just saying) when a powerful version of "Beautiful Saviour" came on.  Incidentally, that same hymn caused me to have to pull off the road the other night as I was driving home - just hearing it was so stunning I knew I had to stop until it was done.
+
+So why is it I came to truly believe?  It's been a long journey as I've mentioned.  Fundamentally, it comes down to a number of those weird coincidences that you just _know_ have some logical explanation, but said explanation seems just so unlikely that thoughts of something greater having a hand in it start to make just as much sense.  Things like hesitating for the briefest of seconds when a light turns green at a blind intersection , only for someone to blaze through at twice the speed limit right into the space you would have occupied had you gone.  Things like your father, who on 9/11 worked in a building across the street from the World Trade Center but was called to a meeting in midtown Manhattan on that day and at that time, likely saving his life.  Things like choosing to spontaneously take a different route and meet a certain someone, or happening to find an apartment above the one of someone who would become one of your closest friends.  Things... too personal to even mention here, on my own blog.
+
+The idea that up there, somewhere, is someone or something watching over me is a powerful and powerfully comforting feeling.  That at the end of the day, it's not the end of the world no matter how terribly I fuck up (please nobody ever give me nuclear launch codes and/or the skynet on/off button).  That fundamentally, we all get second chances.**  That** is why I believe.  It felt right to get it out there this evening, and let me just say that if you've honestly read through all of this, I love you.
