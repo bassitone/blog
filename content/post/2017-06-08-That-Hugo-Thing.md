@@ -1,15 +1,14 @@
-+++
-categories = 
+---
+categories: 
  - Programming 
  - Projects
-date = "2017-06-08T22:22:07-05:00"
-description = "I overhauled my blog again.  This time, to something called Hugo"
-tags = []
-thumbnail = ""
-title = "That Hugo Thing"
-author = Charles
+date: "2017-06-08T22:22:07-05:00"
+description: "I overhauled my blog again.  This time, to something called Hugo"
+thumbnail: ""
+title: "That Hugo Thing"
+author: Charles
 
-+++
+---
 
 I've used WordPress for years.  Since back in the 2.x days, even.  I love it, still recommend it, and generally support everything they're doing, but it's quickly outgrown what I need.  Truth is, y'all, I'm really _not_ doing enough with the site to call for a dynamic php-based solution.  Fact is, WordPress plugins have a rather hilarious number of vulnerabilities; as a cybersecurity professional, minimizing my attack surface is an ongoing .  In addition, WordPress is - as mentioned previously - dynamic.  It's running a lot of code to do a lot of things that I don't really need it to do.  It is possible to run a forum, an ecommerce site, and more on WordPress.  Are there better solutions to do so?  Of course there are - and yet, I have built sites that do all of this.  Apparently, some people even put such sites into production!
 
