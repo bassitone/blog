@@ -1,5 +1,5 @@
 +++
-categories = [Programming, Projects]
+categories = [Programming Projects]
 date = "2017-06-08T22:22:07-05:00"
 description = "I overhauled my blog again.  This time, to something called Hugo"
 tags = []
